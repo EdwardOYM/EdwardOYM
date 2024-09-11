@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EdwardOYM
-- 👀 I’m interested in Gaming, Programming and 
+- 👀 I’m interested in Gaming, Programming and Badminton
 - 🌱 I’m currently learning Software Development
 - 📚 I’m looking to learning Game Development
 - ⚡ Fun fact: Planning on making my own games, and more!
